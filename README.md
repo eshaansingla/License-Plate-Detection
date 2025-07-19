@@ -1,10 +1,10 @@
-# 🚗 License Plate Detection
+# License Plate Detection
 
 A deep learning-based License Plate Detection system that accurately detects and localizes license plates from vehicle images using YOLOv8 and OpenCV.
 
 ---
 
-## 📂 Table of Contents
+## Table of Contents
 - [About the Project](#about-the-project)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
@@ -15,7 +15,7 @@ A deep learning-based License Plate Detection system that accurately detects and
 
 ---
 
-## 📖 About the Project
+## About the Project
 
 This project implements a state-of-the-art object detection model, **YOLOv8**, to detect vehicle license plates from images and videos. It uses OpenCV for image processing and helps in applications like automatic toll collection, parking management, and traffic monitoring.
 
@@ -23,7 +23,7 @@ The model was trained on a custom annotated dataset to achieve high accuracy in 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python 3.x  
 - YOLOv8 (Ultralytics)  
@@ -33,7 +33,7 @@ The model was trained on a custom annotated dataset to achieve high accuracy in 
 
 ---
 
-## ✨ Features
+## Features
 
 - Real-time license plate detection on images and video streams  
 - Bounding box visualization around detected plates  
@@ -42,7 +42,7 @@ The model was trained on a custom annotated dataset to achieve high accuracy in 
 
 ---
 
-## 📥 Installation
+## Installation
 
 1. **Clone the repository**
 
@@ -69,7 +69,7 @@ The model was trained on a custom annotated dataset to achieve high accuracy in 
 
 ---
 
-## 🧑‍💻 Usage
+## Usage
 
 - To run detection on images:
 
@@ -90,13 +90,13 @@ The model was trained on a custom annotated dataset to achieve high accuracy in 
 ---
 
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Eshaan Singla**  
 📧 eshaansingla2807@email.com  
