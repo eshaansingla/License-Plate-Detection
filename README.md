@@ -10,7 +10,6 @@ A deep learning-based License Plate Detection system that accurately detects and
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Results](#results)
 - [License](#license)
 - [Contact](#contact)
 
@@ -90,12 +89,6 @@ The model was trained on a custom annotated dataset to achieve high accuracy in 
 
 ---
 
-## 📸 Results
-
-![License Plate Detection Sample](media/pic9.png)  
-*Example of detected license plates with bounding boxes.*
-
----
 
 ## 📄 License
 
