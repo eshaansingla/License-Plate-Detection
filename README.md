@@ -92,7 +92,7 @@ The model was trained on a custom annotated dataset to achieve high accuracy in 
 
 ## 📸 Results
 
-![License Plate Detection Sample](assets/sample_detection.png)  
+![License Plate Detection Sample](media/pic9.png)  
 *Example of detected license plates with bounding boxes.*
 
 ---
